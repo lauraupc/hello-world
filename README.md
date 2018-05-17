@@ -1,6 +1,6 @@
 # hello-world
 
-A repository to help me learn Github and open source for Andrei Neagoie's The Complete Web Developer in 2018: Zero to Mastery course
+A repository to learn Github and open source coding using JavaScript with Andrei Neagoie's The Complete Web Developer in 2018: Zero to Mastery course
 
 I've always wanted to learn to code and this course is the way.
 
